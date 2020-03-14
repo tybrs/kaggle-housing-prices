@@ -1,5 +1,7 @@
 # House Prices: Advanced Regression Techniques (Top 8%)
 
+![top](images/top-8-percent.png)
+
 ## Removing Outliers
 
 There are significant outliers in this data set. Identifying and removing such data points can have a great impact on the residual error your model.
