@@ -40,6 +40,7 @@ Making this transformation with helped us  achieve symmetry, and normality of ou
 
 ![box-cox](images/skewness-coefficient.png)
 
+
 ## Natural Log Transformation of Sale Price
 
 ![before](images/kde-before-log.png)
