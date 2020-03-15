@@ -12,7 +12,7 @@ There are significant outliers in this data set. Identifying and removing such d
 
 Variance Inflation Factor can detect Multicollinearity.
 
-<img src="https://render.githubusercontent.com/render/math?math=VIF_{i} = \frac{1}{1 - R_{i}^{2}">
+ <img src="https://render.githubusercontent.com/render/math?math=VIF_{i} = \frac{1}{1 - R_{i}^{2}">
 
 where <img src="https://render.githubusercontent.com/render/math?math=R_{i}^{2}"> is the <img src="https://render.githubusercontent.com/render/math?math=R^{2}">from a regression of an input vector <img src="https://render.githubusercontent.com/render/math?math=X_{i}"> from all of the other features. If <img src="https://render.githubusercontent.com/render/math?math=R^{2}"> is close to 1, then collinearity is present, and so the VIF will be large.
 
